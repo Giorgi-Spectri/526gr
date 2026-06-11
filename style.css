@@ -1,0 +1,16 @@
+h1 {
+    color:green;
+    text-decoration: underline;
+}
+.box {
+    width:200px;
+    height: 100px;
+    border: 1px solid red;
+    background-color: aquamarine;
+}
+.box1 {
+    width:400px;
+    height: 150px;
+    border: 1px solid rgb(24, 127, 201);
+    background-color: rgb(218, 172, 75);
+}
